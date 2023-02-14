@@ -1,5 +1,4 @@
-# AWSLambda
-How to make custom runtime environments in AWS Lambda
+# How to make custom runtime environments in AWS Lambda
 
 ### 1. Create a Dockerfile with a custom runtime environment ###
 
